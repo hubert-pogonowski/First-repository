@@ -1,12 +1,5 @@
-# First-repository
+#Pierwsze repozytorium
 
-PL
-
-Repozytorium stworzone do celów naukowych. Zawiera raporty z testów penetracyjnych przeprowadzanych własnoręcznie na przeznaczonych do tego aplikacjach testowych oraz własnych aplikacjach. 
+Repozytorium stworzone do celów naukowych. Będą w nim umieszczane raporty z testów penetracyjnych przeprowadzanych własnoręcznie na przeznaczonych do tego aplikacjach testowych oraz własnych, zbudowanych do tego celu aplikacjach. Zawierać będzie także raporty z rozwiązywania zadań CTF dostępnych na stronie TryHackMe. 
 
 
-
-
-ENG
-
-Repository created for educational purposes. It includes penetration tests reports which I did on my own web apps and on already created web apps for pentesting purposes.
